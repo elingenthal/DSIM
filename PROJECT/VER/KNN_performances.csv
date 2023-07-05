@@ -1,0 +1,4 @@
+,accuracy,precision,recall,f1-score,support
+authorized,,0.507,0.892,0.646,286
+impostor,,0.995,0.962,0.978,6578
+average,0.959,0.751,0.927,0.812,6864
